@@ -1,0 +1,9 @@
+node_modules/
+*evn*
+**/dist/*
+**/dist
+*/dist*
+!/dist
+/dist/*
+dist
+.DS_STORE
